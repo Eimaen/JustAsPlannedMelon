@@ -14,3 +14,6 @@
 
 ## Thank the dev
 Everybody likes Github stars, I'm not an exception. If this code was helpful, please consider starring the repo :3
+
+## Reference
+Don't wanna ship MelonLoader as a dependency? Use [JustAsPlanned](https://github.com/Eimaen/JustAsPlanned), that doesn't modify files!
