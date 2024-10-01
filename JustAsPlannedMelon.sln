@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.4.33213.308
+VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustAsPlannedMelon", "JustAsPlannedMelon\JustAsPlannedMelon.csproj", "{07C136B8-FC91-4BCE-A7B1-FD363B64A48F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustAsPlannedMelon", "JustAsPlannedMelon\JustAsPlannedMelon.csproj", "{BC3EC6B0-4EB3-4730-900D-10C22CB742A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{07C136B8-FC91-4BCE-A7B1-FD363B64A48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{07C136B8-FC91-4BCE-A7B1-FD363B64A48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{07C136B8-FC91-4BCE-A7B1-FD363B64A48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{07C136B8-FC91-4BCE-A7B1-FD363B64A48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3EC6B0-4EB3-4730-900D-10C22CB742A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3EC6B0-4EB3-4730-900D-10C22CB742A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3EC6B0-4EB3-4730-900D-10C22CB742A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3EC6B0-4EB3-4730-900D-10C22CB742A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1CBF3204-2059-4B21-81DA-4C20A54D73D2}
+		SolutionGuid = {8145A8E4-9C02-4A34-BE78-C6B00DA4A8D2}
 	EndGlobalSection
 EndGlobal
